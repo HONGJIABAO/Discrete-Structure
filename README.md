@@ -5,7 +5,12 @@ This subject focus on logical reasoning, problem-solving, and abstraction, has p
 <hr>
 
 Chapter 1 - SET THEORY & LOGIC
+
 Chapter 2 - RELATIONS & FUNCTIONS
+
 Chapter 3 - COUNTING METHODS & PROBABILITY
+
 Chapter 4 - GRAPH THEORY
+
 Chapter 5 - FINITE AUTOMATA
+
