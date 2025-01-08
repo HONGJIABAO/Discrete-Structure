@@ -4,11 +4,11 @@ This subject focus on logical reasoning, problem-solving🛠️, and abstraction
 
 <hr>
 
-Chapter 1 - SET THEORY & LOGIC
+Chapter 1 - SET THEORY & LOGIC 📐
 
-Chapter 2 - RELATIONS & FUNCTIONS
+Chapter 2 - RELATIONS & FUNCTIONS 🛜
 
-Chapter 3 - COUNTING METHODS & PROBABILITY
+Chapter 3 - COUNTING METHODS & PROBABILITY 🔄
 
 Chapter 4 - GRAPH THEORY
 
