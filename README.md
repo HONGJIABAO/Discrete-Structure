@@ -14,3 +14,4 @@ Chapter 4 - GRAPH THEORY
 
 Chapter 5 - FINITE AUTOMATA
 
+More information on [Click here 🌟🌟 ](https://hongjiabao.github.io/JIABAO.github.io/Discrete%20structure.html)
